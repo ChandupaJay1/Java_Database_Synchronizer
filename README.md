@@ -14,7 +14,7 @@ A powerful and practical synchronization engine for local & cloud-based MySQL da
 
 ## 🚀 Overview
 
-This project provides a **bidirectional synchronization system** between a **Local** and an **Online MySQL Database**, designed for the DR_Fashions desktop application. It ensures that both databases remain consistent, allowing the application to function seamlessly even when offline. The system automatically handles connection fallbacks and efficiently manages data integrity between environments.
+This project provides a **bidirectional synchronization system** between a **Local** and an **Online MySQL Database**, designed for the Real Client desktop application. It ensures that both databases remain consistent, allowing the application to function seamlessly even when offline. The system automatically handles connection fallbacks and efficiently manages data integrity between environments.
 
 ## ✨ Features
 

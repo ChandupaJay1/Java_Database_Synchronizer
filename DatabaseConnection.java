@@ -96,7 +96,7 @@ public class DatabaseConnection {
         ResultSetMetaData meta = rs.getMetaData();
         int colCount = meta.getColumnCount();
 
-        // INSERT statement හදන්න
+        // INSERT statement creating
         StringBuilder insertSQL = new StringBuilder("INSERT INTO " + tableName + " (");
         StringBuilder values = new StringBuilder("VALUES (");
         StringBuilder update = new StringBuilder(" ON DUPLICATE KEY UPDATE ");

@@ -1,4 +1,4 @@
-# 🧠 Database Synchronization System for Java & MySQL
+# 🧠 Database Synchronization Model for Java & MySQL
 
 Developed by **Chandupa Jayalath – NerdTech**
 

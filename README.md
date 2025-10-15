@@ -8,6 +8,8 @@ Developed by **Chandupa Jayalath – NerdTech**
 
 A powerful and practical synchronization engine for local & cloud-based MySQL databases — built with precision by Chandupa Jayalath.
 
+![Screenshot of a model.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 ---
 
 ## 🚀 Overview

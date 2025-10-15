@@ -1,6 +1,6 @@
 # 🧠 Database Synchronization System for Java & MySQL
 
-Developed by **Chandupa Jayalath – NerdTech / DR_Fashions**
+Developed by **Chandupa Jayalath – NerdTech**
 
 ![Java](https://img.shields.io/badge/Java-11%2B-blue?style=for-the-badge&logo=java)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-orange?style=for-the-badge&logo=mysql)
